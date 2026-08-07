@@ -2,3 +2,4 @@ belajar hari pertama dalam penggunaan git:
 - ini adalah file pertama saya
 - semoga saya bisa cepat dalam mmemahami penggunaan git
 - setelah ini saya akan membuat projek untuk magang
+- mencoba menambahkan file
